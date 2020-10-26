@@ -2,6 +2,6 @@
     "name": "flowbyte/flowbyte-two",
     "description": "flowbyte-two",
     "require": {
-        "flowbyte/flowbyte-one": "~1.0.0"
+        "flowbyte/flowbyte-one": "~1.2.0"
     }
 }
