@@ -1,0 +1,7 @@
+{
+    "name": "flowbyte/flowbyte-two",
+    "description": "flowbyte-two",
+    "require": {
+        "flowbyte/flowbyte-one": "~1.0.0"
+    }
+}
